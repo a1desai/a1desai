@@ -41,7 +41,7 @@ I'm a 4th-year Computer Science student passionate about **AI, full-stack develo
 ---
 
 ## 📫 Contact Me
-- Email: a1desai@torontomu.ca  
+- Email: Aryandes20@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/aryan-desai-cs/]  
 - GitHub: [https://github.com/AryanDes](https://github.com/AryanDes)  
 

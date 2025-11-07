@@ -1,6 +1,6 @@
 # Hi, I'm Aryan Desai 👋
 
-I'm a 4th-year Computer Science student passionate about **AI, full-stack development, and building innovative software solutions**. I enjoy turning ideas into functional, well-structured code and collaborating on projects that push the boundaries of technology.
+I'm a 2nd-year Computer Science student passionate about **AI, full-stack development, and building innovative software solutions**. I enjoy turning ideas into functional, well-structured code and collaborating on projects that push the boundaries of technology.
 
 ---
 

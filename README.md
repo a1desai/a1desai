@@ -43,7 +43,8 @@ I'm a 2nd-year Computer Science student passionate about **AI, full-stack develo
 ## 📫 Contact Me
 - Email: Aryandes20@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/aryan-desai-cs/]  
-- GitHub: [https://github.com/AryanDes](https://github.com/AryanDes)  
+- GitHub: [https://github.com/AryanDes](https://github.com/AryanDes)
+- Personal Portfolio: [aryan-desai-website.vercel.app]
 
 ---
 
